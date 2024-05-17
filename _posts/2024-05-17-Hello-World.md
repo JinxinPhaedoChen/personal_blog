@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Everything begins!
+title: Start!!!
 ---
 
 I'll start to share my thoughts on science, keep my literature notes and update my life here!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/flower_scilifelab.jpeg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+It would be fun to keep track of the very moments of my career and life and also convenient to share the data, protocol and ideas here.
