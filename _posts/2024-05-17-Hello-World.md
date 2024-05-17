@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start!!!
+title: :)
 ---
 
 I'll start to share my thoughts on science, keep my literature notes and update my life here!
