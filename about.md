@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently a PhD student working on Biophysics and Genome biology at the Karolinska Institutet and the SciLifeLab. I graduated with a B.S. in chemistry at West China Hospital from Sichuan University in June 2021. After that, I finished my freshman work of PhD under the supervision of Xiaoliang Sunney Xie at BIOPIC from Peking University.
+I am currently a PhD student working on Biophysics and Genome biology at [Karolinska Institutet](https://ki.se/) and [SciLifeLab](https://www.scilifelab.se/). I graduated with a B.S. in chemistry at [West China Hospital](https://www.wchscu.cn/Home.html), [Sichuan University](https://www.scu.edu.cn/) in June 2021 and finished my undergrad thesis under the supervision of [Xiaoliang Sunney Xie](https://en.wikipedia.org/wiki/Xiaoliang_Sunney_Xie) at [BIOPIC](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
 
 ### Publication
 
