@@ -8,9 +8,9 @@ I am currently a PhD student working on Biophysics and Genome biology at [Karoli
 
 ### Publication
 
-<i><b>Chen JP</b></i>,Diekmann C,Wu H,Chen C et al. scCircle-seq unveils the diversity and complexity of circular DNAs in single cells. Nature Communication, 2024.
+<i><b>Chen JP</b></i>, Diekmann C, Wu H, Chen C et al. scCircle-seq unveils the diversity and complexity of circular DNAs in single cells. Nature Communication, 2024.
 
-Wu H,Zhang J,Jian F,<i><b>Chen JP</b></i> et al. Simultaneous single-cell three-dimensional genome and gene expression profiling Uncovers Dynamic Enhancer Connectivity Underlying Olfactory Receptor Choice. Nature Methods, 2024.
+Wu H, Zhang J, Jian F, <i><b>Chen JP</b></i> et al. Simultaneous single-cell three-dimensional genome and gene expression profiling Uncovers Dynamic Enhancer Connectivity Underlying Olfactory Receptor Choice. Nature Methods, 2024.
 
 ### Contact me
 
