@@ -14,6 +14,8 @@ Wu H, Zhang J, Jian F, <i><b>Chen JP</b></i>, Zheng Y, Tan L & Xie XS. Simultane
 
 Pedrotti S, Castiglioni I, Perez-Estrada C, Zhao L, <i><b>Chen JP</b></i>, Crosetto N & Bienko M. Emerging methods and applications in 3D genomics. Current Opinion in Cell Biology, 2024.
 
+Dong W, Zhang J, Dai L, <i><b>Chen JP</b></i>, Wu H et al. Mapping eukaryotic chromatin accessibility and histone modifications with DNA deaminase. BioRxiv, 2024.
+
 ### Contact me
 
 [jinxin.chen@ki.se](jinxin.chen@ki.se)
