@@ -18,4 +18,4 @@ Dong W, Zhang J, Dai L, <i><b>Chen JP</b></i>, Wu H et al. Mapping eukaryotic ch
 
 ### Contact me
 
-[jinxin.chen@ki.se](jinxin.chen@ki.se)
+[jinxin.phaedo.chen@ki.se](jinxin.phaedo.chen@ki.se)
